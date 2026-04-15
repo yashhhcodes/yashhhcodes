@@ -1,85 +1,46 @@
-# 👋 Hey there, I'm Yash!
-### 🚀 Python & Django Developer | Data Enthusiast | Problem Solver  
+# ⚡ YASHHHCODES.exe
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;Django+Backend+Engineer;Data+Analysis+Enthusiast;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Python+Developer;Django+Backend+Engineer;Data+Driven+Thinker+📊;Building+Cool+Stuff+on+the+Internet+🚀;Welcome+to+my+GitHub+⚡" />
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 💻 Passionate about building scalable backend systems using **Django**
-- 📊 Love working with **data** using NumPy, Pandas & Matplotlib  
-- 🔍 Enjoy solving real-world problems with clean and efficient code  
-- ⚙️ Strong believer in **automation, optimization & clean architecture**
-- 🌱 Currently exploring: **Advanced Django, APIs, and System Design**
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages & Frameworks
-- 🐍 Python  
-- 🌐 Django / Django REST Framework  
-
-### 📊 Data & Visualization
-- 🔢 NumPy  
-- 🧮 Pandas  
-- 📈 Matplotlib  
-
-### ⚙️ Tools & Technologies
-- 🔧 Git & GitHub  
-- 🗄️ SQLite / PostgreSQL  
-- 🐧 Linux (Basics)  
-
----
-
-## ⚡ What I Do
-
-✔️ Build robust backend systems with Django  
-✔️ Design REST APIs with clean architecture  
-✔️ Perform data analysis & visualization  
-✔️ Automate repetitive tasks using Python  
-✔️ Write maintainable and scalable code  
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashhhcodes&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashhhcodes&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Python-00F7FF?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Django-00FF9C?style=for-the-badge&logo=django&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DRF-FF00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-00D9FF?style=for-the-badge&logo=pandas&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Numpy-00FFF7?style=for-the-badge&logo=numpy&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-FFD700?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhhcodes&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🧩 Featured Skills Breakdown
+## 🧠 WHO_AM_I()
 
 ```python
-class YashhhCodes:
+class Yash:
     def __init__(self):
-        self.languages = ["Python"]
-        self.frameworks = ["Django", "Django REST Framework"]
-        self.data_tools = ["NumPy", "Pandas", "Matplotlib"]
-        self.tools = ["Git", "GitHub", "Linux"]
-    
-    def current_focus(self):
-        return ["Backend Development", "API Design", "Data Analysis"]
-    
-    def mindset(self):
-        return "Keep building. Keep improving. 🚀"
+        self.username = "yashhhcodes"
+        self.role = "Backend Developer ⚙️"
+        self.stack = ["Python", "Django", "APIs"]
+        self.data_stack = ["Pandas", "NumPy", "Matplotlib"]
+        self.vibe = "Clean code. Smart systems. No nonsense."
 
-me = YashhhCodes()
-print(me.mindset())
+    def life_cycle(self):
+        return ["Code 💻", "Break 💥", "Debug 🐛", "Repeat 🔁"]
+
+me = Yash()
+print(me.life_cycle())
+
+> initializing yashhhcodes...
+
+Python        █████████████ 100%
+Django        ███████████░  90%
+APIs          ████████████ 95%
+Data Analysis ██████████░░  80%
+Debugging     █████████████ 100%
+
+STATUS: BUILDING COOL STUFF 🚀
+
